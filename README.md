@@ -14,6 +14,7 @@ and navigation for ease of use.
   <li><a href="https://mealprepmanual.com/1000-calorie-burrito-bowls/">Burrito Bowl</a></li>
   <li><a href="https://chefjackovens.com/crispy-chicken-macaroni-cheese-meal-prep/">Crispy Chicken Mac &amp; Cheese</a></li>
 </ol>
+
 * all images are royalty-free
 
 ## Tools
