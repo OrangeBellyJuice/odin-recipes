@@ -6,7 +6,15 @@ I want to loose weight and gain lean body mass. It has a really simple layout
 and navigation for ease of use.
 
 ## Instructions
-* after cloning the repo and navigating into the directory, run ```npm -g install serve```.
+* after cloning the repo, navigate into the directory, and run ```npm -g install serve```.
+
+## Sources
+<ol>
+  <li><a href="https://www.joshuaweissman.com/recipes/best-japanese-chicken-curry-recipe">Japanese Curry</a></li>
+  <li><a href="https://mealprepmanual.com/1000-calorie-burrito-bowls/">Burrito Bowl</a></li>
+  <li><a href="https://chefjackovens.com/crispy-chicken-macaroni-cheese-meal-prep/">Crispy Chicken Mac &amp; Cheese</a></li>
+</ol>
+* all images are royalty-free
 
 ## Tools
 <p align="left">
