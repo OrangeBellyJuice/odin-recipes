@@ -6,7 +6,7 @@ I want to loose weight and gain lean body mass. It has a really simple layout
 and navigation for ease of use.
 
 ## Instructions
-* after cloning the repo, navigate into the directory, and run ```npm -g install serve```.
+* after cloning the repo, navigate into the directory, and spin up a local server.
 
 ## Sources
 <ol>
@@ -17,10 +17,11 @@ and navigation for ease of use.
 
 * all images are royalty-free
 
+## Updates
+2025-10-01: Added CSS for subsequent assignment.
+
 ## Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5", width="45" height="45"/>
-</p>
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3", width="45" height="45"/>
 </p>
