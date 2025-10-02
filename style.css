@@ -5,10 +5,19 @@
   background: bisque;
 }
 
-#title {
+#front-page-title {
   text-align: center;
   border: 5px solid black;
-  width: 250px;
+  width: 300px;
+  margin: 30px auto 0 auto;
+  padding: 10px;
+  background: white;
+}
+
+#big-title {
+  text-align: center;
+  border: 5px solid black;
+  width: 600px;
   margin: 30px auto 0 auto;
   padding: 10px; 
   background: white;
@@ -26,7 +35,16 @@
   margin: 20px 0 0 20px;
 }
 
-.third_title {
+.title {
+  text-align: center;
+  border: 5px solid black;
+  width: 250px;
+  margin: 30px auto 0 auto;
+  padding: 10px; 
+  background: white;
+}
+
+.third_header {
   text-align: center;
   font-style: italic;
   margin-bottom: 15px
