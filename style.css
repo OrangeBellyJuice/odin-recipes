@@ -11,10 +11,52 @@
   width: 250px;
   margin: 30px auto 0 auto;
   padding: 10px; 
+  background: white;
 }
 
-.unordered_list {
+#picture {
+  display: block;
+  margin: 10px auto 0 auto;
+}
+
+#button {
+  border: 3px solid purple;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 20px 0 0 20px;
+}
+
+.third_title {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 15px
+}
+
+.fourth_header {
+  text-align: center;
+  font-style: italic;
+  color: grey;
+}
+
+.description {
+  text-align: center;
+  font-style: italic;
+  margin: 5px auto 0 auto;
+}
+
+ul {
   text-align: center;
   font-weight: bold;
-  margin-top: 10px;
+  margin-bottom: 15px;
+  list-style-position: inside;
 }
+
+ol {
+  width: 700px;
+  text-align: left;
+  font-weight: bold;
+  margin: 0 auto 50px auto; 
+  list-style-position: inside;
+  color: blue;
+}
+
